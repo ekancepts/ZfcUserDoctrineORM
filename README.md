@@ -1,3 +1,12 @@
+# History : Refere to following
+
+https://github.com/doctrine/dbal/pull/572
+
+https://github.com/ZF-Commons/ZfcUserDoctrineORM/issues/77
+ 
+ Looks this got fixed in the main repo itself , havent checked personally.
+
+
 ZfcUserDoctrineORM
 ==================
 Version 0.1.1 Created by Kyle Spraggs and the ZF-Commons team
@@ -52,3 +61,6 @@ If SQL looks okay, do:
     vendor/bin/doctrine-module orm:schema-tool:update --force
 
 You can now navigate to `/user` and it should work.
+
+
+
